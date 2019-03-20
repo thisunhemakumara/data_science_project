@@ -14,6 +14,7 @@ To test if there is any correlation exists between the departure for foreign emp
 The hypothesis that we are trying to test can be represented as follows.
 
 H0 : Correlation coefficient between departure of the unskilled workers for the foreign employment and the total paddy production = 0
+
 H1: Correlation coefficient between departure of the unskilled workers for the foreign employment and the total paddy production <> 0
 	
 Further to test if there is any correlation exists between the real daily wages(carries annual inflation rates) of Informal sector and the departure of the unskilled workers(Agriculture and Housing construction sectors) for foreign employment.
@@ -21,6 +22,7 @@ Further to test if there is any correlation exists between the real daily wages(
 The hypothesis that we are trying to test can be represented as follows.
 
 H0 :  Correlation coefficient between departure of the unskilled workers for foreign Employment and daily wages of Informal sector = 0
+
 H1 : Correlation coefficient between departure of the unskilled workers for foreign Employment and daily wages of Informal sector <> 0
 
 
